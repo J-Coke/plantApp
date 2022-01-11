@@ -1,8 +1,8 @@
 # Rooting For You
-Rooting For You is a React Native mobile application we developed for our final project at Northcoders. 
+Rooting For You is a React Native mobile application we developed for our final project at Northcoders. A presentaion of the app can be viewed here: https://www.youtube.com/watch?v=ArS2hWDRg6M
 ## About
 
-The idea came from a research study that shows that a wide variety of healthy fibres was key to maintaining a good microbiome, which plays a fundament role in our health and wellbeing. The study shows that eating at least 30 different plant fibres a week is one of the best ways to improve your microbiome health. 
+The idea came from a research study that shows that a wide variety of healthy fibres was key to maintaining a good microbiome, which plays a fundamental role in our health and wellbeing. The study shows that eating at least 30 different plant fibres a week is one of the best ways to improve your microbiome health. 
 Please click [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5954204/) for more information on the study.
 
 So we wanted to create an app that would allow users to easily track the variety of plants they were eating during a week. However, we didn't want to create another calorie counting app that encouraged restriction. We wanted to promote healthier eating in a fun and engaging way, that rewards users for their progress. 
@@ -18,7 +18,7 @@ On the badges screen, users can see all the badges they've achieved so far. The 
 This is the repo for the frontend application. 
 
 The repo for the backend application can be found here:
-https://github.com/gldrobinson/plantApp_backend
+https://github.com/J-Coke/plantApp_backend
 
 The backend is hosted via Heroku and can be found here:
  https://plant-app-b-end.herokuapp.com/api
